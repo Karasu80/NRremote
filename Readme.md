@@ -1,6 +1,6 @@
 # Network Research
 
-we wastevaluable time typing wrong commands due to stress and are even exposed because the source addresses are exposed.
+we waste valuable time typing wrong commands due to stress and are even exposed because the source addresses are exposed.
 
 Attacking targets behind enemy lines can becomemuch more practical, fast, and accurate if the execution of the tasks becomes automatic.
 Creating automation that would let cyber units execute commands on their local devices but would be executed by the remote server.
